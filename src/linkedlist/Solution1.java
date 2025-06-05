@@ -13,7 +13,6 @@ class TreeNode {
         this.right = right;
     }
 }
-
 public class Solution1 {
     int maxDiameter = 0;
 
